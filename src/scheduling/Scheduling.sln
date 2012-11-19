@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NServiceBus.Scheduling", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NServiceBus.Scheduling.Tests", "NServiceBus.Scheduling.Tests\NServiceBus.Scheduling.Tests.csproj", "{D33F918B-A038-4998-8D02-5DF81C99F097}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NServiceBus.Scheduling.ServiceTasks", "NServiceBus.Scheduling.ServiceTasks\NServiceBus.Scheduling.ServiceTasks.csproj", "{22891BE9-BE7F-4A5B-B320-CC546E476AF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{D33F918B-A038-4998-8D02-5DF81C99F097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D33F918B-A038-4998-8D02-5DF81C99F097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D33F918B-A038-4998-8D02-5DF81C99F097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22891BE9-BE7F-4A5B-B320-CC546E476AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22891BE9-BE7F-4A5B-B320-CC546E476AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22891BE9-BE7F-4A5B-B320-CC546E476AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22891BE9-BE7F-4A5B-B320-CC546E476AF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
